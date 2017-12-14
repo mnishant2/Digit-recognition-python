@@ -21,3 +21,8 @@ the model and its performance
 
 ## digit_recognition.doc
 explanation
+
+---
+
+## mfcc.m
+a code for calculating mfcc I had written on matlab long ago,didn't use it though
